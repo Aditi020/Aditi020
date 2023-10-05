@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 🤝 I’m looking for for entry-level opportunities as a **DevOps Engineer**
+- 🤝 I’m looking for entry-level opportunities as a **DevOps Engineer**
 
 - 📫 You can reach me at **aditi.kumar.2.2.24@gmail.com**
 
