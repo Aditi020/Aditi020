@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "twitter.com/Aditi_K24"><img src="img.icons8.com/color/48/null/twitter--v1.png"/></a>
-<a href = "[www.linkedin.com/in/aditi-kumar02242/](www.linkedin.com/in/aditi-kumar02242/)"><img src="img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/aditi-kumar02242"><img src="img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
