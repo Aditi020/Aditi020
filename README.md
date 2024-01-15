@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **aditi.kumar.2.2.24@gmail.com**
 
-- ⚡ Fun fact **I enjoy watching Anime in my free time.**
+- ⚡ Fun fact **I enjoy watching Anime and read Manhwa in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
