@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for entry-level opportunities as a **DevOps Engineer**
 
-- 📫 You can reach me at **aditi.kumar.2.2.24@gmail.com**
+- 📫 You can reach me at **aditi.kumar@gmail.com**
 
 - ⚡ Fun fact **I enjoy watching Anime and read Manhwa in my free time.**
 
