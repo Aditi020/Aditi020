@@ -1,26 +1,151 @@
 <h1 align="center">Hi 👋, I'm Aditi Kumar</h1>
-<h3 align="center">A passionate frontend developer and a Devops Enthusiast from India</h3>
 
-- 🔭 I’m currently Learning **DevOps**
+<h3 align="center">Data Science & ML · Python · NLP · Analytics</h3>
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+<p align="center">
+2024 B.Tech graduate in Computer Science (AI). Currently working with <b>NextHikes IT Solutions</b> on data analysis projects.<br>
+I care about clean pipelines, real datasets, and models that actually ship — not just notebooks that run once.
+</p>
 
-- 🤝 I’m looking for entry-level opportunities as a **DevOps Engineer**
+### 🔭 Currently
 
-- 📫 You can reach me at **aditi.kumar@gmail.com**
+Most of my time goes into analysis and ML work — the kind where each project teaches something the last one didn't.
 
-- ⚡ Fun fact **I enjoy watching Anime and read Manhwa in my free time.**
+* 📊 Working with **NextHikes IT Solutions** on data analysis — cleaning, pivot analysis, dashboards & forecasting
+* 🤖 Building **ML & NLP projects** — transformers, classification & clustering
+* 🌱 Continuously learning and improving through real projects
+* 💼 Open to **Data Analyst · Data Scientist · ML Engineer** roles
 
-<h3 align="left">Connect with me:</h3>
+---
+<h3 align="left">Let's connect</h3>
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/aditi-kumar02242/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Aditi_K24"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-
+  <a href="i tried both www.linkedin.com/in/aditi-kumar2242">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aditi.kumar.er@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://aditi-kumar-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7B54?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_HASHNODE_URL">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
 </p>
 
+### 🧪 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>  
+<table>
+<tr>
+<td width="50%">
+
+### 💊 Drug Review Safety Monitor
+
+Fine-tuned **BioBERT** to extract drug names and adverse reactions from patient reviews.
+
+`BioBERT` `NLP` `Streamlit` `SQLite`
+
+<a href="https://github.com/Aditi020/drug-safety-monitor">View project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🦋 Thyroid Cancer Recurrence Predictor
+
+**K-Means + per-cluster XGBoost** approach for recurrence prediction.
+
+**Best F1: 0.977**
+
+<a href="https://github.com/Aditi020/Thyroid-Cancer-Recurrence-Predictor">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🕵️ Insurance Fraud Analytics
+
+Analyzed **1,000+ claims**, engineered **139 features**, and built an interactive risk-scoring dashboard.
+
+`ML` `Feature Engineering` `Analytics`
+
+<a href="https://github.com/Aditi020/Insurance-Fraud-Detection">View project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🌾 Farmer Query Classifier
+
+Multilingual NLP pipeline with **negation-aware preprocessing**.
+
+**74.5% accuracy**
+
+<a href="https://github.com/Aditi020/Kisan-Call-Center-Query-Classifier">View project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 What I bring
+
+A solid base in **Python, classical ML, and NLP**, along with engineering habits like version control, testing, and deployment.
+
+I'm honest about what I know, quick to learn what I don't, and I'd rather build something small that works than talk about something big that doesn't.
+
+---
+
+### 🛠️ Data Science & ML
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="42" height="42"/>
 </p>
 
+### 📝 NLP
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" height="28"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" height="28"/>
+  <img src="https://img.shields.io/badge/TF--IDF-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="TF-IDF" height="28"/>
+  <img src="https://img.shields.io/badge/BioBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="BioBERT" height="28"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42"/>
+</p>
+
+### ⚙️ Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi020&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>Building, learning, and shipping — one project at a time.</i>
+</p>
